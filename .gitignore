@@ -1,0 +1,5 @@
+# Ignore the cachedir folder
+cachedir/
+
+# Ignore the vosk-model-ru-0.42 folder
+vosk-model-ru-0.42/
